@@ -1,1 +1,3 @@
-"merge commit final"
+<
+"fil7 from local"
+>>>>>>> 08e4ba1 (file 7 from local)
